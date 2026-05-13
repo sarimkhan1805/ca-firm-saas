@@ -6,7 +6,7 @@ A production-ready **Chartered Accountancy Firm Management System** built with *
 
 ## 🌍 Live Demo
 
-🔗 *Coming Soon*
+🔗 https://zucchini-reflection-production-acad.up.railway.app
 
 ---
 
