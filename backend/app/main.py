@@ -12,8 +12,7 @@ app = FastAPI(title="CA Firm SaaS API", version="1.0.0")
 # Enable CORS so React frontend (localhost:3000) can call this API (localhost:8000)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
-    allow_credentials=True,
+allow_origins=["https://zucchini-reflection-production-acad.up.railway.app"],    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
